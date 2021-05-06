@@ -6,7 +6,7 @@
  *  Sometimes the NTP server refreshes and you get a different server & time. Edit the value in calculateTime() to fix this
  *  
  *  Board used: Arduino Uno Wifi Rev 2
- *  Parts used: LCD1602, Full Breadboard, Potentiometer 10K, Passive Buzzer
+ *  Parts used: LCD1602, Potentiometer 10K, Active Buzzer
  * 
  *  This was done as a project for ELET 2303 (Digital Systems)
  *  
