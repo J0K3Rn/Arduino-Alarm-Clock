@@ -15,3 +15,6 @@ Setup
  - Set alarm time if needed in loop()
  - Configure NTP settings if needed in calculateTime()
  - Get API key from openweathermap and paste it in httpRequest(). You can also adjust the city if needed
+ 
+ Alarm Clock in use:
+ ![alt text](https://github.com/J0K3Rn/Arduino-Alarm-Clock/blob/main/example.jpg?raw=true)
