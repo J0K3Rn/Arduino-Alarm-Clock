@@ -15,11 +15,14 @@ Time Service Used: Network Time Protocol
 Weather Web Service Used: https://openweathermap.org/
 
 Setup
- - Wire up the board correctly
+ - Wire up the board correctly (See below)
  - Configure ssid and pass with your wifi settings
  - Set alarm time if needed in loop()
  - Configure NTP settings if needed in calculateTime()
  - Get API key from openweathermap and paste it in httpRequest(). You can also adjust the city if needed
 
+ Alarm Clock Circuit Diagram:
+ ![alt text](https://github.com/J0K3Rn/Arduino-Alarm-Clock/blob/main/diagram.png?raw=true)
+ 
  Alarm Clock in use:
  ![alt text](https://github.com/J0K3Rn/Arduino-Alarm-Clock/blob/main/example.jpg?raw=true)
