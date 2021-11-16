@@ -8,6 +8,7 @@ Features:
  - Potentiometer acts as a bightness adjustment to the LCD screen
 
 Board used: Arduino Uno Wifi Rev 2
+
 Parts used: LCD1602, Potentiometer 10K, Active Buzzer
 
 Time Service Used: Network Time Protocol
